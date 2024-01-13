@@ -2,7 +2,7 @@
 
 ## Descrição
 
-Este projeto tem como objetivo criar um Cluster Swarm local utilizando máquinas virtuais e o gerenciador de configuração Vagrant. A proposta é aplicar conhecimentos em Docker Swarm, Vagrant e Git, buscando otimizar o processo de implementação para melhorar a eficiência dos desenvolvedores.
+Este projeto tem como objetivo criar um Cluster Swarm local utilizando máquinas virtuais e o gerenciador de configuração Vagrant. A proposta é aplicar conhecimentos em Docker Swarm, Vagrant e Git.
 
 ## Passo a Passo
 
